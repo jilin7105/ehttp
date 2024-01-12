@@ -1,7 +1,7 @@
 package main
 
 import (
-	"ebasehttp/eCute"
+	"github.com/jilin7105/ehttp/eCute"
 	"log"
 	"net/http"
 )
